@@ -1,6 +1,7 @@
 - 👋 Hello, I'm Nur.
 - 💞️ I'm a computer engineer.
-- 👀 I am interested in image processing,data science.
+- 📚 I'm a 4th year student at Konya Technical University.
+- 👀 I am interested in image processing,data science and artificial intelligence.
 - 🌱 I am currently learning Python.
 - 📫 You can reach me from my e-mail address below and my Linkedin profile.
 
