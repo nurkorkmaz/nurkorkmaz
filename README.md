@@ -1,7 +1,6 @@
 - 👋 Hello, I'm Nur.
-- 💞️ I'm a computer engineer.
+- 💞️ I'm a computer engineer also I'm a Google Certified TensorFlow Developer.
 - 👀 I am interested in image processing,data science and artificial intelligence.
-- 🌱 I am currently learning Python.
 - 📫 You can reach me from my e-mail address below and my Linkedin profile.
 
 <br />
