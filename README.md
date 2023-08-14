@@ -27,5 +27,9 @@
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
 
-
+### ❤ Views and Followers
+  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=nurkorkmaz">
+  </a>
+  <a href="https://github.com/nurkorkmaz?tab=followers"><img src="https://img.shields.io/github/followers/nurkorkmaz?label=Followers&style=social" alt="GitHub Badge"></a>
 
